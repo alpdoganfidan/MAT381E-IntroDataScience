@@ -1,2 +1,2 @@
 # MAT381E
-an ITU repository
+Introduction to Data Science. (ITU repository)
